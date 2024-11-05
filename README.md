@@ -1,4 +1,4 @@
-# what is Trailing Stoploss
+# What is Trailing Stoploss
 
 A trailing stop loss is a type of order that moves automatically when the price goes in your favor, helping to protect your profits and manage risk.  Unlike a regular stop loss, it moves with the market, going up when the price rises for a buy order or down for a sell order. For example, if you buy a stock at $50 and set a trailing stop 5% below, the stop will move up as the stock price increases, locking in your profits. If the stock reaches $55, the stop moves up to $52.25. But if the price drops, the stop stays in place and will close your trade if the stock hits that price. 
 
