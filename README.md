@@ -39,6 +39,7 @@ Limiting Losses: The trailing stop loss helps prevent significant losses by capp
 Flexibility: Trailing stops can be applied to various asset classes, including stocks, forex, and commodities. They can be tailored to suit individual trading styles and strategies, making them versatile for both long-term and short-term traders. 
 
 Reduced Stress: With a trailing stop loss in place, traders can step away from the screen without worrying about monitoring the market constantly. This feature makes it easier for part-time traders or those with other commitments to manage their trades. 
- For further questions and inquiries Check out our website [4xpip](https://4xpip.com/) and contact us at our [telegram](https://t.me/pip_4x)
+
+For further questions and inquiries Check out our website [4xpip](https://4xpip.com/) and contact us at our [telegram](https://t.me/pip_4x)
 
  
